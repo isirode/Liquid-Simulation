@@ -1,7 +1,7 @@
 {
   "name": "com.isirode.liquid-simulation",
   "displayName": "Liquid-Simulation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2021.3",
   "description": "2D liquid simulation in Unity",
   "keywords": [ "2D", "liquid", "simulation", "water" ],
