@@ -11,7 +11,16 @@ This project uses blur shaders along with 2D rigidbody sprites to create the ill
 
 ## Getting Started :page_with_curl:
 Clone or download this repository and open the project with your favourite flavour of Unity.  
-_This project was built with Unity 2018.2_
+_This project was built with Unity 2021.3_
+
+## Importing the project
+You can add this package as a git url : "https://github.com/isirode/Liquid-Simulation.git?path=/Assets/Isirode/Liquid-Simulation#0.0.3". The project will be added to your "Packages" folder, the scenes will be read-only, if you want to open them, just copy them in your Assets folder and they will be usable.
+
+You can also download the .unitypackage of the version you want, here for instance https://github.com/isirode/Liquid-Simulation/releases/tag/0.0.3 and add it manually to your project. This should import the project in your Assets folder.
+
+## Known issues
+
+The project is not currently compatible with URP or HDRP, built-in render pipeline only.
 
 ## Optimizations :pencil2:
 There are a few points to consider when using this application:
