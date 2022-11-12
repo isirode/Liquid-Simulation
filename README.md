@@ -1,4 +1,7 @@
 # Liquid Effect :ocean:
+
+Fork of https://github.com/ivuecode/Liquid-Simulation.
+
 An implemntation of liquid simulation effect in Unity.  
 
 This project uses blur shaders along with 2D rigidbody sprites to create the illusion of a liquid body. Render textures and material instancing are methods also used to achieve this inexpensive fluid motion look.
